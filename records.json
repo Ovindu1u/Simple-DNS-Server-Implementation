@@ -1,0 +1,22 @@
+[
+    ["A", "google.com", "142.250.199.46"],
+    ["CNAME", "www.google.com", "google.com"],
+    ["CNAME", "mail.google.com", "google.com"],
+    ["CNAME", "classroom.google.com", "google.com"],
+    ["A", "microsoft.com", "20.70.246.20"],
+    ["CNAME", "www.microsoft.com", "microsoft.com"],
+    ["CNAME", "portal.microsoft.com", "microsoft.com"],
+    ["CNAME", "learn.microsoft.com", "microsoft.com"],
+    ["A", "apple.com", "17.254.0.91"],
+    ["CNAME", "www.apple.com", "apple.com"],
+    ["CNAME", "portal.apple.com", "apple.com"],
+    ["CNAME", "developer.apple.com", "apple.com"],
+    ["A", "amazon.com", "52.94.236.248"],
+    ["CNAME", "www.amazon.com", "amazon.com"],
+    ["CNAME", "sell.amazon.com", "amazon.com"],
+    ["CNAME", "developer.amazon.com", "amazon.com"],
+    ["A", "meta.com", "157.240.15.1"],
+    ["CNAME", "www.meta.com", "meta.com"],
+    ["CNAME", "about.meta.com", "meta.com"],
+    ["CNAME", "developer.meta.com", "meta.com"]
+]
